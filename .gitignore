@@ -1,0 +1,6 @@
+*.py[c|o]
+*.bam
+*.swp
+*.bak
+
+__pycache__
